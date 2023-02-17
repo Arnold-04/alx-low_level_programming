@@ -5,6 +5,7 @@
  * main -Prints the last digits of a randomly generated numb
  * and whether it is greater than s, less that 6, or 0
  * Return: Always 0
+ *
  */
 int main(void)
 {
